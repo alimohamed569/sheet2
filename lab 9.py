@@ -1,0 +1,12 @@
+print("----------------------------------------------------")
+print('"sheet6 lab 5"')
+s = "Hello. My name is ahmed. I am from Cairo"
+a = s.split()
+b = s.split(",")
+c = s.split(".")
+d = s.split(". ")
+print(s)
+print(a)
+print(b)
+print(c)
+print(d)
